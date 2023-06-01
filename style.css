@@ -21,18 +21,18 @@
 } */
 @font-face {
     font-family:kuchtohai ;
-    src: url(/SomethingStrange-vjYD.ttf);
+    src: url(./SomethingStrange-vjYD.ttf);
     
 }
 
 @font-face{
-    src: url(/CyberwarRegular-7BX0E.ttf);
+    src: url(./CyberwarRegular-7BX0E.ttf);
     font-family: cyberway riders;
 }
 
 @font-face {
     font-family: gilroy;
-    src: url(Gilroy-Black.ttf);
+    src: url(./Gilroy-Black.ttf);
 }
 
 @font-face {
